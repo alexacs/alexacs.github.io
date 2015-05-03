@@ -17,6 +17,7 @@ body {
     font-weight: 400;
     line-height: 1.5;
     width: 60%;
+    margin: 60px auto;
 }
 a:link {
     border-bottom: 1px dotted #cb4b16;
