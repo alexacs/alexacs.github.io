@@ -10,7 +10,7 @@
 body {
     background-color: #FFFFFF /* #fdf6e3; */  /* 353535 */  /* #474A4A */
     /* border-top: 10px solid #cb4b16;  /\* #F79C40 *\/ */
-    color: #B80000 /* #657b83; /* #FFFFFF */  
+    color: #A80000 /* #657b83; /* #FFFFFF */  
     /* font-family: "Maven+Pro","Bitstream Vera Sans",helvetica,arial,sans-serif; */
     font-family: 'Lato', sans-serif;
     font-size: 18px;
@@ -18,7 +18,7 @@ body {
     line-height: 1.5;
     width: 40%;
     margin: 60px auto;
-}
+}  
 a:link {
     border-bottom: 1px dotted #cb4b16;
     color: #cb4b16;
@@ -30,13 +30,13 @@ a:visited {
     text-decoration: none;
 }
 a:hover {
-    border-bottom: 1px dotted #657b83;
-    color: #657b83;
+    border-bottom: 1px dotted #A80000;
+    color: #A80000;
     text-decoration: none;
 }
 a:active {
-    border-bottom: 1px dotted #657b83;
-    color: #657b83; 
+    border-bottom: 1px dotted #A80000;
+    color: #A80000; 
     text-decoration: none;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -84,7 +84,7 @@ li ul {
     text-align: center;
 }
 #navbar {
-    border-bottom: 1px solid #657b83;  /* F79C40 */
+    border-bottom: 1px solid #A80000;  /* F79C40 */
 }
 #navbar ul {
     font-family: "Alegreya Sans SC", Verdana,sans-serif; /* "Maven+Pro","Calibri" */
@@ -121,7 +121,7 @@ li ul {
 }
 #navbar #active a:hover {
     background-color: #cb4b16;
-    color: #657b83;
+    color: #A80000;
 }
 #content {
     padding-top: 40px;
@@ -144,7 +144,7 @@ li ul {
     content: "";
 }
 #footer {
-    border-top: 1pt dotted #657b83;
+    border-top: 1pt dotted #A80000;
     clear: left;
     font-size: 0.75em;
     margin: 2.5em auto;
@@ -153,7 +153,7 @@ li ul {
 }
 blockquote {
     border-left: 3px solid #cb4b16;
-    color: #657b83;
+    color: #A80000;
     padding: 10px;
 }
 blockquote p {
@@ -181,8 +181,8 @@ blockquote p {
     color: #cb4b16;
 }
 .project-title a:hover {
-    border-bottom: 1px dotted #657b83;
-    color: #657b83;
+    border-bottom: 1px dotted #A80000;
+    color: #A80000;
 }
 .project {
     margin-top: 10px;
